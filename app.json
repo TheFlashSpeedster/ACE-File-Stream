@@ -1,5 +1,5 @@
 {
-  "name": "Adarsh-FileStreamBot",
+  "name": "ACE - File Stream Bot",
   "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @adarsh_status_bot",
   "keywords": [
       "telegram",
@@ -13,7 +13,7 @@
       "media",
       "bot"
     ],
-  "repository": "https://github.com/adarsh-goel/FileStreamBot/",
+  "repository": "https://github.com/TheFlashSpeedster/ACE-File-Stream",
   "success_url": "/",
   "logo": "https://i.ibb.co/MnMZ1Sy/download-1.jpg",
   "website": "http://adarsh.tk",
@@ -100,7 +100,7 @@
   "formation": {
       "web": {
           "quantity": 1,
-          "size": "free"
+          "size": "eco"
       }
   }
 }
