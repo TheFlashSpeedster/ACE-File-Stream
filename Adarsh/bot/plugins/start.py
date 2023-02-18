@@ -64,7 +64,7 @@ async def start(b, m):
         await m.reply_text(
             text="""
 <i>👋 ꜰɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ᴡɪᴛʜ ʙᴏᴛʜ ᴅᴏᴡɴʟᴏᴀᴅ ᴀɴᴅ ꜱᴛʀᴇᴀᴍ ʟɪɴᴋ ꜱᴜᴘᴘᴏʀᴛ</i>\n
-<i>Send a file/video and see magic!<i>\n
+<i>Send a file/video and see magic!</i>\n
 <i>Cʟɪᴄᴋ ᴏɴ /help ᴛᴏ ɢᴇᴛ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ</i>\n
 <i><b>It is your responsibility to use wisely I dont take responsibilities of any voilations(of any kind)</i>\n
 <i><u>𝗪𝗔𝗥𝗡𝗜𝗡𝗚 🚸</u></i>\n
@@ -148,9 +148,9 @@ async def start(b, m):
 
 <b>📦 Fɪʟᴇ ꜱɪᴢᴇ :</b> <i>{}</i>
 
-<b>📥 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽 :</b> <i>{}</i>
+<b>📥 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽 :</b> <cdoe>{}</code>
 
-<b> 🖥 𝖲𝗍𝗋𝖾𝖺𝗆  :</b> <i>{}</i>
+<b> 🖥 𝖲𝗍𝗋𝖾𝖺𝗆  :</b> <code>{}</code>
 
 <b>🚸 Nᴏᴛᴇ : LINK WON'T EXPIRE TILL I DELETE</b>
 
