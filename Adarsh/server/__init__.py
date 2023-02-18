@@ -1,5 +1,3 @@
-# © codexmania
-
 from aiohttp import web
 from .stream_routes import routes
 
